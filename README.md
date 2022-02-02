@@ -1,6 +1,6 @@
 # ToyFight.co Parallax Effect
 
-## [Watch it on YouTube](https://youtu.be/ID7ODwgwfOU)
+## [Watch it on YouTube](https://youtu.be/jWTembcNWzM)
 
 **Parallax Effect** <br>
 
